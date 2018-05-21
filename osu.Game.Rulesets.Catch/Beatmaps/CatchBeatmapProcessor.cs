@@ -7,7 +7,6 @@ using System.Linq;
 using osu.Game.Beatmaps;
 using osu.Game.Rulesets.Catch.Objects;
 using osu.Game.Rulesets.Catch.UI;
-using osu.Game.Rulesets.Objects.Types;
 using osu.Game.Rulesets.Objects;
 using OpenTK;
 
